@@ -1,0 +1,10 @@
+<?php $this->load->view('umri/lib/head'); ?>
+<?php $this->load->view('umri/lib/head_menu'); ?>
+<?php $this->load->view('umri/lib/home_top_section'); ?>
+<?php $this->load->view('umri/lib/home_topic'); ?>
+<?php $this->load->view('umri/lib/home_phublication'); ?>
+<?php $this->load->view('umri/lib/home_speaker'); ?>
+<?php $this->load->view('umri/lib/home_download'); ?>
+<?php $this->load->view('umri/lib/home_sponsor'); ?>
+<?php $this->load->view('umri/lib/home_contact'); ?>
+<?php $this->load->view('umri/lib/home_footer'); ?>

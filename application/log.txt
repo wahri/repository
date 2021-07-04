@@ -1,0 +1,20 @@
+Controller
+	
+
+
+Models
+
+
+
+Views
+	member
+		payment
+			order
+				index.php
+
+
+Database
+	my_payment_tr
+		add field
+			type (int 1)
+			
